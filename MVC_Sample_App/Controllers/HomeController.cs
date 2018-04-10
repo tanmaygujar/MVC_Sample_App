@@ -15,7 +15,7 @@ namespace MVC_Sample_App.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Your application description page for Git";
 
             return View();
         }
